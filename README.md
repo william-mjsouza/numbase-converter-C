@@ -19,6 +19,7 @@
 
 ## 📁 Estrutura do Projeto
 
+```
 base-converter/
 ├── README.md              # General project documentation
 ├── LICENSE                # License file
@@ -44,6 +45,7 @@ base-converter/
 │   └── test_utils.c
 └── examples/              # Usage examples or test data
     └── usage_example.txt
+```
 
 ## 🚀 Como Instalar e Compilar
 
